@@ -27,7 +27,7 @@ The project includes:
 - `Linear`  
 - `ReLU`  
 - `Sigmoid`  
-- `Tanh`  
+- `GELU`  
 - `Sequential`  
 - Easily extensible with custom modules
 
